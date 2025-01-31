@@ -7,3 +7,7 @@ Let's say Mohan is a LinkedIn influencer and he needs help in writing his future
 
 
 ![image](https://github.com/user-attachments/assets/f9a6b13f-1722-45e6-a72b-674ccdbef212)
+
+
+Stage 1: Collect LinkedIn posts and extract Topic, Language, Length etc. from it.
+Stage 2: Now use topic, language and length to generate a new post. Some of the past posts related to that specific topic, language and length will be used for few shot learning to guide the LLM about the writing style etc.
