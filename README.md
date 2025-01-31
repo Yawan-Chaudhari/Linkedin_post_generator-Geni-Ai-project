@@ -20,6 +20,7 @@ Let's say Mohan is a LinkedIn influencer and he needs help in writing his future
 2. To get started, first install the dependencies using:
  
  `pip install -r requirements.txt`
+
 3. Run the streamlit app:
 
 `streamlit run main.py`
