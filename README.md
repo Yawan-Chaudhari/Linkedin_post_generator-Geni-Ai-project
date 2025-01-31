@@ -16,8 +16,8 @@ Let's say Mohan is a LinkedIn influencer and he needs help in writing his future
 
 # Set-up
 
-To get started we first need to get an API_KEY from here: https://console.groq.com/keys. Inside .env update the value of GROQ_API_KEY with the API_KEY you created.
-To get started, first install the dependencies using:
- pip install -r requirements.txt
-Run the streamlit app:
+1. To get started we first need to get an API_KEY from here: https://console.groq.com/keys. Inside .env update the value of GROQ_API_KEY with the API_KEY you created.
+2. To get started, first install the dependencies using:
+ `pip install -r requirements.txt`
+3. Run the streamlit app:
 `streamlit run main.py`
