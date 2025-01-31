@@ -1,4 +1,4 @@
-#project-genai-post-generator
+# project-genai-post-generator
 This tool will analyze posts of a LinkedIn influencer and help them create the new posts based on the writing style in their old posts
 
 ![image](https://github.com/user-attachments/assets/ca74eb78-3ff1-404b-a216-bdfe4d4e2928)
